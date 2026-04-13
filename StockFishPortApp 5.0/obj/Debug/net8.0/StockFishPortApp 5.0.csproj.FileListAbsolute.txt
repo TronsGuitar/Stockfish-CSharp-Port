@@ -1,0 +1,14 @@
+/home/runner/work/Stockfish-CSharp-Port/Stockfish-CSharp-Port/StockFishPortApp 5.0/bin/Debug/net8.0/StockFishPortApp 5.0
+/home/runner/work/Stockfish-CSharp-Port/Stockfish-CSharp-Port/StockFishPortApp 5.0/bin/Debug/net8.0/StockFishPortApp 5.0.dll.config
+/home/runner/work/Stockfish-CSharp-Port/Stockfish-CSharp-Port/StockFishPortApp 5.0/bin/Debug/net8.0/StockFishPortApp 5.0.deps.json
+/home/runner/work/Stockfish-CSharp-Port/Stockfish-CSharp-Port/StockFishPortApp 5.0/bin/Debug/net8.0/StockFishPortApp 5.0.runtimeconfig.json
+/home/runner/work/Stockfish-CSharp-Port/Stockfish-CSharp-Port/StockFishPortApp 5.0/bin/Debug/net8.0/StockFishPortApp 5.0.dll
+/home/runner/work/Stockfish-CSharp-Port/Stockfish-CSharp-Port/StockFishPortApp 5.0/bin/Debug/net8.0/StockFishPortApp 5.0.pdb
+/home/runner/work/Stockfish-CSharp-Port/Stockfish-CSharp-Port/StockFishPortApp 5.0/obj/Debug/net8.0/StockFishPortApp 5.0.GeneratedMSBuildEditorConfig.editorconfig
+/home/runner/work/Stockfish-CSharp-Port/Stockfish-CSharp-Port/StockFishPortApp 5.0/obj/Debug/net8.0/StockFishPortApp 5.0.csproj.CoreCompileInputs.cache
+/home/runner/work/Stockfish-CSharp-Port/Stockfish-CSharp-Port/StockFishPortApp 5.0/obj/Debug/net8.0/StockFishPortApp 5.0.sourcelink.json
+/home/runner/work/Stockfish-CSharp-Port/Stockfish-CSharp-Port/StockFishPortApp 5.0/obj/Debug/net8.0/StockFishPortApp 5.0.dll
+/home/runner/work/Stockfish-CSharp-Port/Stockfish-CSharp-Port/StockFishPortApp 5.0/obj/Debug/net8.0/refint/StockFishPortApp 5.0.dll
+/home/runner/work/Stockfish-CSharp-Port/Stockfish-CSharp-Port/StockFishPortApp 5.0/obj/Debug/net8.0/StockFishPortApp 5.0.pdb
+/home/runner/work/Stockfish-CSharp-Port/Stockfish-CSharp-Port/StockFishPortApp 5.0/obj/Debug/net8.0/StockFishPortApp 5.0.genruntimeconfig.cache
+/home/runner/work/Stockfish-CSharp-Port/Stockfish-CSharp-Port/StockFishPortApp 5.0/obj/Debug/net8.0/ref/StockFishPortApp 5.0.dll
