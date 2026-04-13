@@ -1028,7 +1028,7 @@
     ]
   },
   "packageFolders": {
-    "/home/runner/.nuget/packages/": {}
+    "/tmp/codeql-scratch-129e07588f316358/dbs/csharp/working/packages": {}
   },
   "project": {
     "version": "1.0.0",
@@ -1036,7 +1036,7 @@
       "projectUniqueName": "/home/runner/work/Stockfish-CSharp-Port/Stockfish-CSharp-Port/StockFish.Tests/StockFish.Tests.csproj",
       "projectName": "StockFish.Tests",
       "projectPath": "/home/runner/work/Stockfish-CSharp-Port/Stockfish-CSharp-Port/StockFish.Tests/StockFish.Tests.csproj",
-      "packagesPath": "/home/runner/.nuget/packages/",
+      "packagesPath": "/tmp/codeql-scratch-129e07588f316358/dbs/csharp/working/packages",
       "outputPath": "/home/runner/work/Stockfish-CSharp-Port/Stockfish-CSharp-Port/StockFish.Tests/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
@@ -1102,6 +1102,16 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
+        "downloadDependencies": [
+          {
+            "name": "Microsoft.AspNetCore.App.Ref",
+            "version": "[8.0.25, 8.0.25]"
+          },
+          {
+            "name": "Microsoft.NETCore.App.Ref",
+            "version": "[8.0.25, 8.0.25]"
+          }
+        ],
         "frameworkReferences": {
           "Microsoft.NETCore.App": {
             "privateAssets": "all"

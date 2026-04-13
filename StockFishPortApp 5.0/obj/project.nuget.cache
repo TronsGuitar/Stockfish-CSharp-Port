@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "YG1EGvJquLE=",
+  "dgSpecHash": "oAS5Jnjoa0c=",
   "success": true,
   "projectFilePath": "/home/runner/work/Stockfish-CSharp-Port/Stockfish-CSharp-Port/StockFishPortApp 5.0/StockFishPortApp 5.0.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "/tmp/codeql-scratch-129e07588f316358/dbs/csharp/working/packages/microsoft.netcore.app.ref/8.0.25/microsoft.netcore.app.ref.8.0.25.nupkg.sha512",
+    "/tmp/codeql-scratch-129e07588f316358/dbs/csharp/working/packages/microsoft.aspnetcore.app.ref/8.0.25/microsoft.aspnetcore.app.ref.8.0.25.nupkg.sha512",
+    "/tmp/codeql-scratch-129e07588f316358/dbs/csharp/working/packages/microsoft.netcore.app.host.linux-x64/8.0.25/microsoft.netcore.app.host.linux-x64.8.0.25.nupkg.sha512"
+  ],
   "logs": []
 }
