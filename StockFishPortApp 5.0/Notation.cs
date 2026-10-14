@@ -170,7 +170,7 @@ namespace StockFishPortApp_5._0
             StringBuilder s = new StringBuilder();
 
             if (hours != 0)            
-                s.Append(hours + ':');
+                s.Append(hours + ":");
 
             s.Append(minutes.ToString().PadLeft(2, '0') + ':' + seconds.ToString().PadLeft(2, '0'));            
 
